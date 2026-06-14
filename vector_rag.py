@@ -1,3 +1,6 @@
+"""
+Created from 'https://graphacademy.neo4j.com/courses/genai-fundamentals/4-integrating-neo4j/3-rag/'
+"""
 import os
 from dotenv import load_dotenv
 load_dotenv()
